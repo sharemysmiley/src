@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {View, Button, Text, ActivityIndicator, StyleSheet} from 'react-native'
+import {View, Button, Text, ActivityIndicator, StyleSheet} from 'react-native';
 import firebase from 'react-native-firebase';
 import type {Notification} from 'react-native-firebase';
 import NearbyConnection, {Strategy} from 'react-native-google-nearby-connection';
