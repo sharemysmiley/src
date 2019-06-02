@@ -6,7 +6,6 @@ import NearbyConnection, {Strategy} from 'react-native-google-nearby-connection'
 import Pulse from './Pulse';
 
 const serviceID = "Smiley service ID";
-
 const primaryColor = "#3FA9F5";
 
 class Nearby extends Component{
